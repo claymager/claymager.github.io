@@ -40,5 +40,5 @@ By far the strongest predictor was event type, with DNFs in Slalom being the mos
 geographic region also played significant roles.
 
 [residuals](https://raw.githubusercontent.com/claymager/claymager.github.io/master/images/fis_resid.png)
-Apparent heteroscedasticity of the residuals is largely because of the lower-bound rate of 0 .
+Apparent heteroschedasticity of the residuals is largely because of the lower-bound rate of 0 .
 
